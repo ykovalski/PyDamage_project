@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<RecordSet><DocumentSummary uid="592486">
+    <Project>
+        <ProjectID>
+            <ArchiveID accession="PRJEB33577" archive="EBI" id="592486"/>
+            <CenterID center="EBI" id="0">ERP116382</CenterID>
+            <LocalID submission_id="ena-STUDY-Max Planck Institute for the Science of Human History-18-07-2019-16:40:06:442-1685">Max Planck Institute for the Science of Human History</LocalID>
+        </ProjectID>
+        <ProjectDescr>
+            <Title>Comparison of extraction methods for recovering ancient microbial DNA from paleofeces</Title>
+            <Description>Paleofeces is a rich source of biological information including host-associated microorganisms. These unique materials are of increasing interest to researchers studying the evolution of the gut microbiome of humans and other species through metagenomic methods, however the effects of various extraction methods on the recovery and complexity of metagenomic DNA from paleofeces is underexplored. In this study we compare five different extraction methods for recovering DNA from paleofeces, including methods commonly employed in either ancient DNA research or modern metagenomics studies. The extraction methods were tested on three different paleofeces samples, which were each run in duplicate. The DNA extracts were converted into double-index Illumina sequencing libraries and paired-end sequencing was performed on the Illumina HiSeq 2000 platform with a read length of 100 bp.</Description>
+        </ProjectDescr>
+        <ProjectType>
+            <ProjectTypeSubmission>
+                <Target capture="eWhole" material="eGenome" sample_scope="eMonoisolate"/>
+                <Method method_type="eSequencing"/>
+                <Objectives>
+                    <Data data_type="eOther">Unspecified Objective</Data>
+                </Objectives>
+                <ProjectDataTypeSet>
+                    <DataType>Other</DataType>
+                </ProjectDataTypeSet>
+            </ProjectTypeSubmission>
+        </ProjectType>
+    </Project>
+    <Submission last_update="2019-11-29" submitted="2019-11-29">
+        <Description>
+            <!-- Submitter information has been removed -->
+            <Organization role="owner" type="center">
+                <Name>Max Planck Institute for the Science of Human History</Name>
+                <!-- Contact information has been removed -->
+            </Organization>
+            <Access>public</Access>
+        </Description>
+    </Submission>
+</DocumentSummary>
+
+</RecordSet>

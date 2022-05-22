@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<RecordSet><DocumentSummary uid="33577">
+    <Project>
+        <ProjectID>
+            <ArchiveID accession="PRJNA33577" archive="NCBI" id="33577"/>
+        </ProjectID>
+        <ProjectDescr>
+            <Name>Brucella melitensis bv. 2 str. 63/9</Name>
+            <Title>Type strain for comparative analysis</Title>
+            <Description>&lt;P&gt;&lt;B&gt;&lt;I&gt;Brucella melitensis&lt;/I&gt; bv. 2 str. 63/9&lt;/B&gt;. &lt;I&gt;Brucella melitensis&lt;/I&gt; bv. 2 str. 63/9 (ATCC 23457) is the type strain for this biovar and will be used for comparative analysis.</Description>
+            <ProjectReleaseDate>2009-02-18T00:00:00Z</ProjectReleaseDate>
+            <LocusTagPrefix assembly_id="GCA_000182235" biosample_id="SAMN02595294">BASG</LocusTagPrefix>
+        </ProjectDescr>
+        <ProjectType>
+            <ProjectTypeSubmission>
+                <Target capture="eWhole" material="eGenome" sample_scope="eMonoisolate">
+                    <Organism species="29459" taxID="520465">
+                        <OrganismName>Brucella melitensis bv. 2 str. 63/9</OrganismName>
+                        <Strain>63/9</Strain>
+                        <Supergroup>eBacteria</Supergroup>
+                        <BiologicalProperties>
+                            <Morphology>
+                                <Gram>eNegative</Gram>
+                            </Morphology>
+                            <Environment>
+                                <OxygenReq>eAerobic</OxygenReq>
+                                <TemperatureRange>eMesophilic</TemperatureRange>
+                                <Habitat>eHostAssociated</Habitat>
+                            </Environment>
+                            <Phenotype>
+                                <Disease>Brucellosis</Disease>
+                            </Phenotype>
+                        </BiologicalProperties>
+                        <GenomeSize units="Kb">3284.950000</GenomeSize>
+                    </Organism>
+                </Target>
+                <Method method_type="eSequencing"/>
+                <Objectives>
+                    <Data data_type="eAssembly"/>
+                </Objectives>
+                <ProjectDataTypeSet>
+                    <DataType>Genome sequencing and assembly</DataType>
+                </ProjectDataTypeSet>
+            </ProjectTypeSubmission>
+        </ProjectType>
+    </Project>
+    <Submission submitted="2009-01-08">
+        <Description>
+            <!-- Submitter information has been removed -->
+            <Organization role="participant" type="center" url="http://www.broadinstitute.org">
+                <Name abbr="Broad Institute">Broad Institute</Name>
+                <!-- Contact information has been removed -->
+            </Organization>
+            <Organization role="owner" type="consortium">
+                <Name abbr="The Broad Institute Genome Sequencing Platform">Broad Institute</Name>
+            </Organization>
+            <Organization role="participant" type="center" url="http://www.broadinstitute.org">
+                <Name abbr="Broad Institute">Broad Institute</Name>
+            </Organization>
+            <Access>public</Access>
+        </Description>
+    </Submission>
+    <ProjectLinks>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="33577" accession="PRJNA33577"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="47689" accession="PRJNA47689"/>
+            </Hierarchical>
+        </Link>
+    </ProjectLinks>
+</DocumentSummary>
+
+</RecordSet>
